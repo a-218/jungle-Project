@@ -34,7 +34,7 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## Final Product
 
-!["screenshot of Home Page"]()
-!["screenshot of Menu Page without Signing in"]()
-!["screenshot of Menu page after login"]()
-!["screenshot of checkout page"]()
+!["screenshot of Home Page"](https://github.com/a-218/jungle-Project/blob/master/docs/Picture1.png)
+!["screenshot of My Cart"](https://github.com/a-218/jungle-Project/blob/master/docs/Picture2.png)
+!["screenshot of checkout page"](https://github.com/a-218/jungle-Project/blob/master/docs/Picture3.png)
+!["screenshot of admin page"](https://github.com/a-218/jungle-Project/blob/master/docs/Picture4.png)
